@@ -1,4 +1,4 @@
-Hi 👋 My name is Madhu Sudhanan P
+Hi 👋 My name is Madhu Sudhanan
 =================================
 
 Front-end Web Developer
